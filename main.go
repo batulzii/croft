@@ -1,5 +1,5 @@
 package main
-yes
+
 import (
 	"log"
 )
